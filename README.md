@@ -47,6 +47,4 @@ In all my models a temperature 6.3 corresponds to a room temperature of 22-24 °
 
 5/17/2017 Revised by N.T. Carnevale. As noted by the senior author, in the original implementation of this model assigning a value of 6.3 to the parameter "celsius" corresponded to an actual operating temperature of 23 deg C. In this new revision of the model, the value assigned to celsius is identical to the operating temperature, i.e. a value of 23 means 23 deg C. The motivation for the current revision is to facilitate future attributed reuse of this model and the mechanisms that it employs by promoting conceptual clarity and making sure that this code "plays nicely" with other models that involve temperature-dependent mechanisms.
 
----
-
-2025-05-27 – Standardized to Markdown.
+5/27/2025 Standardized to Markdown.
